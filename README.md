@@ -92,5 +92,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Deployment
 
-The application is deployed on  Vercel and can be accessed at [-].
+The application is deployed on  Vercel and can be accessed at [ `health-tracker-ten-blush.vercel.app ` ].
 
